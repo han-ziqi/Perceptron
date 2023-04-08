@@ -23,6 +23,10 @@ This standalone .py file including
 
 Simply put the two datasets **train.data** and **test.data** in the same directory with this perceptron.py in supported software e.g. PyCharm. 
 
+##### Here is a demo for running
+![Perceptron demo](https://github.com/han-ziqi/Perceptron/raw/master/demo/Perceptron-2.jpeg)
+
+
 ## Binary Perceptron
 
 If you want to run this part, please ensure **the data file is already in the current directory**, and then **please remove the comment symbol between the 131 and 145 lines**. You can see result in my dashboard in console

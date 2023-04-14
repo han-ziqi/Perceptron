@@ -1,8 +1,6 @@
 ## README - Perceptron
 
-This is a Implementation of [Perceptron](https://en.wikipedia.org/wiki/Perceptron), is a project about [numpy](https://en.wikipedia.org/wiki/NumPy) and [pandas](https://en.wikipedia.org/wiki/Pandas_(software))
-
-- Perception is inspired by neurons in biology, where when a single neuron is connected to several other neurons, these incoming neurons have different activation values and thus different results are obtained from a single neuron. The above process can be analysed from a mathematical point of view, where a neuron can be judged by the sum of vectors and weights multiplied together.
+It is my individual project. The perceptron is a simple neural network algorithm used for binary classification, which receives one or more inputs and produces a single output based on a weighted sum of the inputs. It has applications in various fields, such as image recognition and natural language processing. The project utilizes **Python** and several libraries such as **pandas** and **NumPy**.
 
 This standalone .py file including 
 
